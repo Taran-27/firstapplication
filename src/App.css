@@ -1,0 +1,129 @@
+body{
+    padding-top: 100px;
+    padding-bottom: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('./Images/BlackRed.jpg');
+    margin: auto;
+}
+
+.home, .login, .sigin, .notfound{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  height: 90vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .main{
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-image: url('../Images/BlackRed.jpg'); */
+  /* margin: auto; */
+  
+
+
+
+/* .subMain{
+  display: flex;
+  justify-content: center;
+  height: 550px;
+  width: 45%;
+  box-shadow: 11px 12px 13px 12px rgb(207,207,207);
+  padding-top: 30px;
+  border-radius: 60px;
+  background-color: white;
+} */
+
+/* .show {
+  /*line-height: 12px;
+  width: 18px;*/
+  /* color: red;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid #ff0000;
+  padding: 14px 10px;
+  border-radius: 24px;
+  width: 100px;
+  position: absolute;
+  top: 0;
+  right: 200px;
+  cursor: pointer;
+} */
+
+/* .center {
+  margin: auto;
+  width: 30%;
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+} */
+
+/* .center h1 {
+      color: red;
+      text-align: center;
+      text-transform: uppercase;
+      font-weight: 500;
+} */
+/*div class*/
+/* .hideform {
+  display: none;
+  border: 3px solid #f1f1f1;
+} */
+
+/* input{
+  width: 300px;
+  height: 50px;
+  border-radius: 60px;
+  box-shadow: inset 0px 0px 25px 0px #888;
+  border: none;
+  outline: none;
+  background-color: #fff;
+  text-align: center;
+}
+
+.name{
+  padding-left: 70px;
+  font-size: 20px;
+}
+
+button{
+  width: 180px;
+  height: 50px;
+  border-radius: 60px;
+  background-color: red;
+  color: white;
+  font-size: 25px;
+  border: none;
+}
+.Login{
+  padding-top: 15px;;
+}  */ 
